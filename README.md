@@ -1,6 +1,7 @@
 # Stock_TS
 # Stock Time Series Analysis
 This project is an exploration of stock market data using time series analysis techniques(ARIMA,SARMA). In this analysis, we aim to gain insights into the historical performance of stocks, identify patterns, and potentially make predictions about future trends.
+![Alt Text](https://github.com/AhemdMahmoud/Stock_TS/blob/main/download.png)
 
 ## Table of Contents
 
