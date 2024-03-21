@@ -43,10 +43,13 @@
 # Results
 
 ### Our analysis yields the following insights:
-- Identification of significant trends and seasonality in sales data.
-- Forecasting models that demonstrate predictive capabilities for future sales trends.
-- Correlation analysis revealing relationships between different sales metrics or market factors.
-- Identification of potential opportunities for improving sales performance based on the analysis results.
+- Visualize the Time Series Data
+- Make the time series data stationary
+- Plot the Correlation and AutoCorrelation Charts
+- Construct the ARIMA Model or Seasonal ARIMA based on the data
+- Use the model to make predictions
+
+
 
 ## Usage
 
