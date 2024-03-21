@@ -1,4 +1,4 @@
-# Sales Time Series Analysis
+# Forecasting Future Sales 
 
 ## This project is an exploration of Sales market data using `time series analysis techniques` `(ARIMA, SARMA)`. In this analysis, we aim to gain insights into the historical performance of Sales, identify patterns, and potentially make predictions about future trends.
 
