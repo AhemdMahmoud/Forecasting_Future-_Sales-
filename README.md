@@ -21,6 +21,14 @@
 ## Dataset
 
 ### The dataset used in this project consists of historical sales data. It includes monthly opening, closing, high, and low sales, as well as other relevant metrics over a specified period.
+* ##  Sample
+| Month       | Sales   |
+|-------------|---------|
+| 1964-01-01  | 2815.0  |
+| 1964-02-01  | 2672.0  |
+| 1964-03-01  | 2755.0  |
+| 1964-04-01  | 2721.0  |
+| 1964-05-01  | 2946.0  |
 
 ## Methods
 
