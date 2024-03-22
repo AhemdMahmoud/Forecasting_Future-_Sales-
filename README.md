@@ -4,6 +4,12 @@
 
 ![Sales Image](https://github.com/AhemdMahmoud/Stock_TS/blob/main/download.png)
 
+# Just want to quickly look at some notebooks, without executing any code?
+## <a href="https://nbviewer.org/github/AhemdMahmoud/Forecasting_Future-_Sales-/blob/main/Forcasting.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
+### or  Edit
+[open Colab](https://colab.research.google.com/drive/1VeTbkC6uroN5LwjyNQQ5eOc7PKyoSqqn#scrollTo=aujTf2zZIasd)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
